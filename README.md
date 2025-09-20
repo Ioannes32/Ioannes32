@@ -8,7 +8,7 @@ I'm a Computer Science/Information Technology student passionate about solving r
 - 💬 **Build with me!** I'm always open to collaboration on exciting projects and learning from others. Let's make something great together!
 
 ## ⚡ Skills & Interests
-- **Languages**: Python, C, HTML/CSS
+- **Languages**: Python, C++, C, JAVA, HTML/CSS
 - **Tools**: Git, Visual Studio Code, PowerShell
 - **Technologies**: Linux, Pentesting, Cybersecurity
 - **Passions**: Solving problems, building impactful projects, learning new frameworks and libraries
