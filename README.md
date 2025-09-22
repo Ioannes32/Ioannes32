@@ -15,7 +15,7 @@ I'm a Computer Science/Information Technology student passionate about solving r
 - **Hobbies**: Video editing, photography, and exploring new tech.
 
 ## 🌍 Let's connect!
-Feel free to reach out to me if you'd like to collaborate, share ideas, or just chat about tech. 
+Feel free to reach out to me if you'd like to collaborate, share ideas, or anything. 
 
 ---
 > "It's not about how fast you work; it's about how much you learn along the way." - Me (probably)
