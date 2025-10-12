@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is ioannes Bach and I'm a Student, from other world</h2>
+<h2 align="left">Hi! My name is Ioannes Bach and I'm a Student, from the other continent</h2>
 
 ###
 
