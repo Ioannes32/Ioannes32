@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ioannes32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ioannes32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img height = "140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3NjhmeDM3NnR6MWE5Y2x2cGgyMmNjdTk1MGE3enU3eTQ5cGo4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioannes32&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -35,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+<div align = "left" width = "90">
+  <img height="90" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lraTZnMHkzb3AxbnQwc2hreDl6ZjluazBsemE5eXJmcDU1bGlmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif"  />
+  <img height = "90" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE3YjZpdWI2dTltOHViMW9pM2NubDh2Z3JieW56MjNycGFwMnI0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" />
 </div>
 
 ###
